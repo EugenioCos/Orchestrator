@@ -1,0 +1,6 @@
+[submodule "OrchestratorClient"]
+	path = OrchestratorClient
+	url = https://github.com/EugenioCos/OrchestratorClient.git
+[submodule "IA"]
+	path = IA
+	url = https://github.com/EugenioCos/IA.git
